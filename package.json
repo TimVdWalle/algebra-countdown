@@ -1,0 +1,19 @@
+{
+  "name": "algebra-countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimVdWalle/algebra-countdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimVdWalle/algebra-countdown/issues"
+  },
+  "homepage": "https://github.com/TimVdWalle/algebra-countdown#readme"
+}
