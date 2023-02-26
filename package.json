@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TimVdWalle/algebra-countdown/issues"
   },
-  "homepage": "https://github.com/TimVdWalle/algebra-countdown#readme"
+  "homepage": "https://github.com/TimVdWalle/algebra-countdown#readme",
+  "dependencies": {
+    "mathjs": "^11.6.0"
+  }
 }
